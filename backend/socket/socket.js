@@ -9,7 +9,7 @@ const io = new Server(server, {
   cors: {
     origin: [
       "http://localhost:3000",
-      "https://chat-app-j4k9.onrender.com", // Add your Render domain
+      "https://realtimechat-app-6e7d.onrender.com", // Add your Render domain
     ],
     methods: ["GET", "POST"],
     credentials: true,

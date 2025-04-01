@@ -1,4 +1,4 @@
-# CHAT APP
+# CHAT APPlication
 
 enables user to chat with other users along with real time messaging using socket.io.
 
